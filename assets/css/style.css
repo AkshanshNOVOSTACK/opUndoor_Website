@@ -60,8 +60,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  color: #fff;
-  background: #748ec6;
+  color: #FF4081;
+  background: #fff;
   transition: background 0.2s ease-in-out;
 }
 
@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #5777ba;
+  color: #FF4081;
 }
 
 .mobile-nav {
@@ -275,14 +275,14 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #47536e;
+  color: #FF4081;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #5777ba;
+  color: #FF4081;
   text-decoration: none;
 }
 
@@ -588,7 +588,7 @@ section {
 .details .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5777ba;
+  color: #FF4081;
 }
 
 .details .content p:last-child {
