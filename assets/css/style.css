@@ -946,7 +946,7 @@ section {
 
 .contact .info i {
   font-size: 48px;
-  color: #9fb2d8;
+  color: #FF4081;
   margin-bottom: 15px;
 }
 
@@ -1181,7 +1181,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #47536e;
+  color: #FF4081;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1198,7 +1198,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #9fb2d8;
+  color: #FF4081;
   font-size: 18px;
   line-height: 1;
 }
@@ -1222,7 +1222,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #5777ba;
+  color: #FF4081;
 }
 
 #footer .footer-top .social-links a {
